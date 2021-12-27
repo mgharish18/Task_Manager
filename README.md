@@ -1,3 +1,3 @@
 # task_manager
 
-An android application developed using flutter.
+An android application developed using flutter
